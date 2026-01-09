@@ -1,5 +1,14 @@
+*
+{
+    font-family: Arial,Verdana, Geneva, Tahoma, sans-serif;
+}
 table, thead, tbody, tfoot, tr, th, td
 {
     border-collapse: collapse;
     border: 1px solid black;
+    padding: 10px;
+}
+.bold
+{
+    font-weight: bold;
 }
